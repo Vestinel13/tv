@@ -31,7 +31,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580128418~acl=/hls-p/ingest_734_*
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="Lokal",TRANS 7 3
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="Lokal",TRANS TV
-http://210.210.155.35/session/0fd20eca-07c5-11ea-9bba-c81f66f89318/qwr9ew/s/s100/01.m3u8
+http://streamku.live:8888/live/asm20/asm2020/612.ts
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="Lokal",TRANS TV 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNCTV-Logo-572x394.png" group-title="Lokal",MNC TV
@@ -39,7 +39,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:0 tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNCTV-Logo-572x394.png" group-title="Lokal",MNC TV 2
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6sPs9YY/globaltv.png" group-title="Lokal",GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+http://streamku.live:8888/live/asm20/asm2020/606.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Lokal",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Lokal",SCTV 2
