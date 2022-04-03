@@ -1,0 +1,122 @@
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/animax/images/0/0b/Animax_logo.jpg/revision/latest?cb=20080927021229" group-title="KIDS",ANIMAX
+http://streamku.live:8888/live/asm20/asm2020/564.ts
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",ANIPLUS
+http://streamku.live:8888/live/asm20/asm2020/563.ts
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",ANIPLUS 2
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",ANIPLUS 3
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-logo="" group-title="KIDS",KIDS JUNIOR
+http://streamku.live:8888/live/asm20/asm2020/570.ts
+#EXTINF:0 tvg-logo="" group-title="KIDS",NICKELODEON ASIA
+http://streamku.live:8888/live/asm20/asm2020/567.ts
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",Disney Channel
+http://streamku.live:8888/live/asm20/asm2020/571.ts
+#EXTINF:0 tvg-logo="" group-title="KIDS",Cartoon Network
+http://streamku.live:8888/live/asm20/asm2020/568.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/W39RR2t/Waku-Waku-Japan.png" group-title="KIDS", Waku-Waku Japan
+https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/25/76/43/2576437951f95de51993c4500bbeb218.png" group-title="Lokal",RCTI
+https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="Lokal",TRANS 7
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581398265~exp=9007200836139256~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=ba4dc3d3e1d30aed37f0d933ffde5e82f41740f75c4bb04de847bd9edde5802f&hdnts=st=1581398269~exp=1581398389~acl=/*~id=d741463f-2bf7-4ac9-9ece-0f58e57637dd~data=36.68.52.70~hmac=cfa8468626806030000750362272cf7d9247b0020a7028624b69491e84c83819
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="Lokal",TRANS TV
+http://streamku.live:8888/live/asm20/asm2020/612.ts
+#EXTINF:0 tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNCTV-Logo-572x394.png" group-title="Lokal",MNC TV
+http://streamku.live:8888/live/asm20/asm2020/605.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/6sPs9YY/globaltv.png" group-title="Lokal",GLOBAL TV
+http://streamku.live:8888/live/asm20/asm2020/606.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Lokal",SCTV
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/46
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="Lokal",NET TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="Lokal",INDOSIAR
+http://streamku.live:8888/live/asm20/asm2020/609.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Lokal",METRO TV
+https://delivery.macan.live/stream/id_metrotv/index.m3u8?token=P4g4PpoO&v=20200308
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="Lokal",ANTV
+http://streamku.live:8888/live/asm20/asm2020/607.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Lokal",TV ONE
+https://delivery.macan.live/stream/id_tvone/index.m3u8?token=P4g4PpoO&v=20200308
+#EXTINF:0 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Lokal",KOMPAS TV
+https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=OpCKsDAP&v=20200308
+#EXTINF:0 tvg-logo="" group-title="Lokal",INEWS
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Lokal",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Lokal",TVRI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Lokal",VISION PRIME
+https://delivery.macan.live/stream/visionprime/index.m3u8?token=P4g4PpoO&v=20200308
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="MOVIES",CINEMAX
+http://streamku.live:8888/live/asm20/asm2020/589.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="MOVIES",AXN
+http://streamku.live:8888/live/asm20/asm2020/855.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/wvNYk1vM/FX-movie.png" group-title="MOVIES",FX
+http://streamku.live:8888/live/asm20/asm2020/580.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/Dbyxf6h/First-Movies.png" group-title="MOVIES",FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="MOVIES",K+
+http://streamku.live:8888/live/asm20/asm2020/543.ts
+#EXTINF:0 tvg-logo="" group-title="MOVIES",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0 tvg-logo="" group-title="MOVIES",CINEMA WORLD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+#EXTINF:0 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="MOVIES",CELESTIAL MOVIES
+http://streamku.live:8888/live/asm20/asm2020/592.ts
+#EXTINF:0 tvg-logo="" group-title="MOVIES",SINEMA INDONESIA
+http://streamku.live:8888/live/asm20/asm2020/599.ts
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="MOVIES",FOX Family Movies
+http://streamku.live:8888/live/asm20/asm2020/584.ts
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",Fox Movies
+http://streamku.live:8888/live/asm20/asm2020/581.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="MOVIES",FOX
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=OpCKsDAP&v=20200308
+#EXTINF:0 tvg-logo="https://i.ibb.co/fCdsWtP/foxcrime.png" group-title="MOVIES",FOX Crime
+http://streamku.live:8888/live/asm20/asm2020/582.ts
+#EXTINF:0 tvg-logo="KOSONG" group-title="MOVIES", FOX Action Movie
+http://streamku.live:8888/live/asm20/asm2020/586.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/T2QGdTfF/hbo.png" group-title="MOVIES",HBO
+http://streamku.live:8888/live/asm20/asm2020/576.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.pngg" group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="MOVIES",HBO HITS MOVIES
+http://streamku.live:8888/live/asm20/asm2020/578.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="MOVIES", Thrill
+https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="MUSIC",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 tvg-logo="" group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-logo="" group-title="MUSIC",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0 tvg-logo="" group-title="MUSIC",MX
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",MTV LIVE
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",PRAMBORS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+#EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",B MUSIC SESSION
+
+#EXTINF:0 tvg-logo="" group-title="GAME",EGG NETWORK ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="GAME",WWE
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+
+#EXTINF:0 tvg-logo="" subtitles="https://raw.githubusercontent.com/Vestinel13/tv/master/Ip.Man.4.The.Finale.2019.BRRip.Blu-Ray.BDRip.720p.480p.1080p.WWW.SEBUAH-DONGENG.COM.srt" group-title="VOD",IP-MAN 4
+https://www.googleapis.com/drive/v3/files/18MtdQLGku9Fg9ie4OIlCdPCK7lJdD2gS/?key=AIzaSyB62UE9-n_KYeC0bvcpTdJQ0cEfhVVMuKg&alt=media
