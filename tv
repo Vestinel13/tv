@@ -112,6 +112,8 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 #EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:0 tvg-logo="http://127.0.0.1/" group-title="MUSIC",B MUSIC SESSION
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.kampung.xyz/c/5c16f2fcdb2dd0db.png" group-title="FJ | Indo",ScTV
+http://tvn.x10.bz/xchannel/master-24.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="GAME",EGG NETWORK ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
