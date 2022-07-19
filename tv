@@ -241,7 +241,7 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KVISION",HBO FHD
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Anime",Animax_HD
+#EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="AnimaxAsia.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png" group-title="Anime",AnimaxAsia.jp
 http://210.210.155.35/dr9445/h/h144/index10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Anime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
